@@ -3,11 +3,11 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 <p align="left"> 
-  <img alt="" src="https://img.shields.io/badge/Uses-Ubuntu%20Linux-red/">
+  <img alt="" src="https://img.shields.io/badge/Uses-Readme.md%20Linux-red/">
   <img alt="" src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
-  <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
+ <!-- <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown"> -->
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheEighthBounty&no-frame=trueno-bg=true&theme=matrix" alt="TheEighthBounty" /></a> </p>
