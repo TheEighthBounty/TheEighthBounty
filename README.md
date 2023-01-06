@@ -14,9 +14,9 @@
 
 <h2 align="left">Stats</h2>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=B0UNTYINFINITY&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="BountyInfinity" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=B0UNTYINFINITY&theme=dark" alt="BountyInfinity" /></p><br>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=TheEighthBounty&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="TheEighthBounty" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheEighthBounty&theme=dark" alt="TheEighthBounty" /></p><br>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/B0UNTYINFINITY/B0UNTYINFINITY/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/B0UNTYINFINITY/B0UNTYINFINITY/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/TheEighthBounty/TheEighthBounty/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/TheEighthBounty/TheEighthBounty/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </html>
