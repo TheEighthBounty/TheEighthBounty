@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+BountyInfinity!;HTML+Coder;JavaScript+Programer">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+The+Eighth+Bounty!(The8thBounty);I+am+a+Coder;An+Interesting+Programer">
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B0UNTYINFINITY&no-frame=trueno-bg=true&theme=matrix" alt="BountyInfinity" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheEighthBounty&no-frame=trueno-bg=true&theme=matrix" alt="TheEighthBounty" /></a> </p>
 
 <h2 align="left">Stats</h2>
 
